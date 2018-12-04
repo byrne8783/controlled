@@ -1,0 +1,9 @@
+C:\Users\byr\source\repos\Personal\sandBox\ThrowAways\ClaLibStd20\bin\Debug\netstandard2.0\ClaLibStd20.deps.json
+C:\Users\byr\source\repos\Personal\sandBox\ThrowAways\ClaLibStd20\bin\Debug\netstandard2.0\ClaLibStd20.dll
+C:\Users\byr\source\repos\Personal\sandBox\ThrowAways\ClaLibStd20\bin\Debug\netstandard2.0\ClaLibStd20.pdb
+C:\Users\byr\source\repos\Personal\sandBox\ThrowAways\ClaLibStd20\obj\Debug\netstandard2.0\ClaLibStd20.csprojAssemblyReference.cache
+C:\Users\byr\source\repos\Personal\sandBox\ThrowAways\ClaLibStd20\obj\Debug\netstandard2.0\ClaLibStd20.csproj.CoreCompileInputs.cache
+C:\Users\byr\source\repos\Personal\sandBox\ThrowAways\ClaLibStd20\obj\Debug\netstandard2.0\ClaLibStd20.AssemblyInfoInputs.cache
+C:\Users\byr\source\repos\Personal\sandBox\ThrowAways\ClaLibStd20\obj\Debug\netstandard2.0\ClaLibStd20.AssemblyInfo.cs
+C:\Users\byr\source\repos\Personal\sandBox\ThrowAways\ClaLibStd20\obj\Debug\netstandard2.0\ClaLibStd20.dll
+C:\Users\byr\source\repos\Personal\sandBox\ThrowAways\ClaLibStd20\obj\Debug\netstandard2.0\ClaLibStd20.pdb
