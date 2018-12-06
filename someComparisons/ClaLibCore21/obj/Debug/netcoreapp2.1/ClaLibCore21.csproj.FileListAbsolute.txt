@@ -1,9 +1,0 @@
-C:\Users\byr\source\repos\Personal\sandBox\someComparisons\ClaLibCore21\bin\Debug\netcoreapp2.1\ClaLibCore21.deps.json
-C:\Users\byr\source\repos\Personal\sandBox\someComparisons\ClaLibCore21\bin\Debug\netcoreapp2.1\ClaLibCore21.dll
-C:\Users\byr\source\repos\Personal\sandBox\someComparisons\ClaLibCore21\bin\Debug\netcoreapp2.1\ClaLibCore21.pdb
-C:\Users\byr\source\repos\Personal\sandBox\someComparisons\ClaLibCore21\obj\Debug\netcoreapp2.1\ClaLibCore21.csprojAssemblyReference.cache
-C:\Users\byr\source\repos\Personal\sandBox\someComparisons\ClaLibCore21\obj\Debug\netcoreapp2.1\ClaLibCore21.csproj.CoreCompileInputs.cache
-C:\Users\byr\source\repos\Personal\sandBox\someComparisons\ClaLibCore21\obj\Debug\netcoreapp2.1\ClaLibCore21.AssemblyInfoInputs.cache
-C:\Users\byr\source\repos\Personal\sandBox\someComparisons\ClaLibCore21\obj\Debug\netcoreapp2.1\ClaLibCore21.AssemblyInfo.cs
-C:\Users\byr\source\repos\Personal\sandBox\someComparisons\ClaLibCore21\obj\Debug\netcoreapp2.1\ClaLibCore21.dll
-C:\Users\byr\source\repos\Personal\sandBox\someComparisons\ClaLibCore21\obj\Debug\netcoreapp2.1\ClaLibCore21.pdb
